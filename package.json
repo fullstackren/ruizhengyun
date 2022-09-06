@@ -1,0 +1,26 @@
+{
+  "name": "ruizhengyun",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstackren/ruizhengyun.git"
+  },
+  "author": "江湖",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fullstackren/fullstackren.github.io.git/issues"
+  },
+  "homepage": "https://github.com/fullstackren/fullstackren.github.io.git#readme",
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "npm-check-updates": "^11.5.13",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-feed": "^0.1.9"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
